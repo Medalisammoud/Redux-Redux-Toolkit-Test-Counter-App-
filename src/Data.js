@@ -1,0 +1,32 @@
+export const data=[
+    {
+        id:1,
+        First_Name:'othmen',
+        Last_Name:'daghrour',
+        Phone_Number:'96599024'
+    },
+    {
+        id:2,
+        First_Name:'othmen',
+        Last_Name:'daghrour',
+        Phone_Number:'96599024'
+    },
+    {
+        id:3,
+        First_Name:'othmen',
+        Last_Name:'daghrour',
+        Phone_Number:'96599024'
+    },
+    {
+        id:4,
+        First_Name:'othmen',
+        Last_Name:'daghrour',
+        Phone_Number:'96599024'
+    },
+    {
+        id:5,
+        First_Name:'othmen',
+        Last_Name:'daghrour',
+        Phone_Number:'96599024'
+    },
+];
